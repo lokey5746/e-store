@@ -11,7 +11,7 @@ function Header() {
       <Link to="/">
         <img
           className="header__logo"
-          src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+          src="http://assets.stickpng.com/images/585f9333cb11b227491c3581.png"
           alt="amazon"
         />
       </Link>
